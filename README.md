@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlazingHorizonne
 - 👀 I’m interested in ...font-End developement
 - 🌱 I’m currently learning ...REACT
-- 💞️ I’m looking to collaborate on ...HTML, CSS, JS and REACT
+- 💞️ I’m looking to collaborate on projects related to...HTML, CSS, JS and REACT
 - 📫 How to reach me ...blazinghorizonne@gmail.com
 
 <!---
